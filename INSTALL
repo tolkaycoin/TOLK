@@ -1,0 +1,9 @@
+Building TOLKAY
+
+See doc/readme-qt.rst for instructions on building TOLKAY QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TOLKAY.
+
+See doc/build-*.txt for instructions on building tolkayd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TOLKAY.
